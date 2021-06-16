@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drunken-monkey-ops&label=Profile%20views&color=0e75b6&style=flat" alt="drunken-monkey-ops" /> </p>
 
-- 🌱 I’m currently learning **SFML**
+- 🌱 I’m currently learning **UI/UX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/drunken-monkey-ops](https://github.com/drunken-monkey-ops)
 
